@@ -30,7 +30,9 @@ Document all exposed methods in your code.
 This does not just make it easier for you to work in a team, but its also easier for the TAs to 
 understand what a function is supposed to do - and to give you partial points 
 even if the implementation of a method is incorrect or incomplete.
-Additionally, a 'README.md' should explain how to use your program, how to run it
+Additionally, a 'README.md' should contain
+the full names of the team members,
+an explaination of how to run and use your program,
 and also transparently declare what's not yet implemented. 
 
 #### :+1: :+1: Reasonable software design choices
